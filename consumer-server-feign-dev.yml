@@ -2,3 +2,5 @@ prop:
   name: proptest
   version: 1.0
 
+server:
+  port: 9009
